@@ -38,8 +38,8 @@ We applied several feature selection techniques to identify the most important f
 - **ROC AUC Curve**: Used the ROC AUC curve to rank features based on their contribution to model performance.
 
 <p align="center">
-  <img src="Images/Screenshot 2024-09-21 at 2.00.41 AM.png" alt="Pearson Correlation" width="300"/>
-  <img src="Images/Screenshot 2024-09-21 at 2.01.37 AM.png" alt="ROC-AUC Curve" width="300"/>
+  <img src="Images/Screenshot 2024-09-21 at 2.00.41 AM.png" alt="Pearson Correlation" width="500"/>
+  <img src="Images/Screenshot 2024-09-21 at 2.01.37 AM.png" alt="ROC-AUC Curve" width="500"/>
 </p>
 
 ### 4. Classification Algorithms
@@ -59,8 +59,8 @@ Additionally, we used ensemble methods to improve model robustness and performan
 ![Alt Text](Images/Screenshot 2024-09-21 at 2.02.06 AM.png)
 
 <p align="center">
-  <img src="Images/Screenshot 2024-09-21 at 2.02.06 AM.png" alt="Decision Tree Classifier" width="300"/>
-  <img src="Images/Screenshot 2024-09-21 at 2.02.44 AM.png" alt="MLP Classifier" width="300"/>
+  <img src="Images/Screenshot 2024-09-21 at 2.02.06 AM.png" alt="Decision Tree Classifier" width="500"/>
+  <img src="Images/Screenshot 2024-09-21 at 2.02.44 AM.png" alt="MLP Classifier" width="500"/>
 </p>
 
 These algorithms were carefully chosen to handle the complexities of the dataset and provide a comprehensive evaluation of model performance.
@@ -79,8 +79,9 @@ The project leverages various Python libraries such as:
 ### 7. Metrics Used
 - 4 Metrics were used namely - [Accuracy, Precision, Recall, F-score]
 
-![Alt Text](Images/Screenshot 2024-09-21 at 2.02.25 AM.png)
-
+<p align="center">
+  <img src="Images/Screenshot 2024-09-21 at 2.02.25 AM.png" alt="Confusion Matrix" width="700"/>
+</p>
 
 ### 7. Ablation Study and Analysis
 We perform an ablation study to understand the impact of various features and hyperparameters on model performance, offering insights into what contributes most to accuracy.
